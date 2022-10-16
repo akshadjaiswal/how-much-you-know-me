@@ -8,5 +8,5 @@
 
 ## Language Used
 - HTML5
-- CSS5
+- CSS3
 - JavaScript
